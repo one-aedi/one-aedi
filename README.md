@@ -1,3 +1,19 @@
+<h1 align="center">Hi 👋, I'm Adrian.</h1>
+<h3 align="center">I do mainly frontend but I like all tech </h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m @one-aedi
 - 👀 I’m interested in web design, HTML, CSS, JS and also frameworks like React, Angular and VUEjs
 - 🌱 I’m currently learning JS and JS frameworks
